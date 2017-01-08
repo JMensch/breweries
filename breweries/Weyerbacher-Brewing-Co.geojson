@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "medium",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Weyerbacher Brewing Co.",
         "address": "905 Line St, Easton, PA 18042",
         "url": "http://weyerbacher.com"

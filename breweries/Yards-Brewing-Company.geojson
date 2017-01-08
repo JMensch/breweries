@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#0047AB",
-        "marker-size": "medium",
+        "marker-color": "#607D8B",
+        "marker-size": "small",
         "name": "Yards Brewing Company",
         "address": "901 N Delaware Ave, Philadelphia, PA 19123",
         "url": "http://yardsbrewing.com"

@@ -13,7 +13,7 @@
 			"properties": {
 				"marker-symbol": "beer",
 				"marker-color": "#607D8B",
-				"marker-size": "medium",
+				"marker-size": "small",
 				"name": "Double Mountain Brewery",
 				"address": "8 4th St, Hood River, OR 97031",
 				"url": "http://doublemountainbrewery.com"

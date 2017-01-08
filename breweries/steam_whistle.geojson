@@ -13,7 +13,7 @@
 			"properties": {
 				"marker-symbol": "beer",
 				"marker-color": "#607D8B",
-				"marker-size": "medium",
+				"marker-size": "small",
 				"name": "Steam Whistle Brewing",
 				"address": "Roundhouse Park, 255 Bremner Blvd, Toronto, ON M5V 3M9, Canada",
 				"url": "http://steamwhistle.ca"

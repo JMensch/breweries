@@ -13,7 +13,7 @@
 			"properties": {
 				"marker-symbol": "beer",
 				"marker-color": "#607D8B",
-				"marker-size": "medium",
+				"marker-size": "small",
 				"name": "Steel String Brewery",
 				"address": "106 S Greensboro St, Carrboro, NC 27510",
 				"url": "http://steelstringbrewery.com"
