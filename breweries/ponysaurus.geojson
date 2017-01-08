@@ -1,0 +1,23 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8974383,
+					35.9895842
+				]
+			},
+			"properties": {
+				"marker-symbol": "beer",
+				"marker-color": "#607D8B",
+				"marker-size": "medium",
+				"name": "Ponysaurus Brewing Co",
+				"address": "219 Hood St, Durham, NC 27701",
+				"url": "http://ponysaurusbrewing.com"
+			}
+		}
+	]
+}

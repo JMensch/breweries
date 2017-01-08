@@ -1,0 +1,23 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.3212637,
+					35.946722
+				]
+			},
+			"properties": {
+				"marker-symbol": "beer",
+				"marker-color": "#607D8B",
+				"marker-size": "medium",
+				"name": "Haw River Farmhouse Ales",
+				"address": "1713 Saxapahaw-Bethlehem Church Rd, Saxapahaw, NC 27340",
+				"url": "http://hawriverales.com"
+			}
+		}
+	]
+}

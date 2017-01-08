@@ -1,0 +1,23 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.5199873,
+					45.7146273
+				]
+			},
+			"properties": {
+				"marker-symbol": "beer",
+				"marker-color": "#607D8B",
+				"marker-size": "medium",
+				"name": "pFriem Family Brewers",
+				"address": "707 Portway Ave #101, Hood River, OR 97031",
+				"url": "http://pfriembeer.com"
+			}
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.1532363,
+					45.100609
+				]
+			},
+			"properties": {
+				"marker-symbol": "beer",
+				"marker-color": "#607D8B",
+				"marker-size": "small",
+				"name": "Deschutes Brewery",
+				"address": "210 NW 11th Ave, Portland, OR 97209",
+				"url": "http://deschutesbrewery.com"
+			}
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-124.1886396,
+					45.7366255
+				]
+			},
+			"properties": {
+				"marker-symbol": "beer",
+				"marker-color": "#607D8B",
+				"marker-size": "medium",
+				"name": "Pelican Brewing",
+				"address": "1371 S Hemlock St, Cannon Beach, OR 97110",
+				"url": "http://pelicanbrewing.com"
+			}
+		}
+	]
+}

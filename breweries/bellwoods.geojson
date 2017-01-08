@@ -1,0 +1,23 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.4222687,
+					43.647069
+				]
+			},
+			"properties": {
+				"marker-symbol": "beer",
+				"marker-color": "#607D8B",
+				"marker-size": "medium",
+				"name": "Bellwoods Brewery",
+				"address": "124 Ossington Ave, Toronto, ON M6J 2Z5, Canada",
+				"url": "http://bellwoodsbrewery.com"
+			}
+		}
+	]
+}

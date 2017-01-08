@@ -1,0 +1,23 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.8997647,
+					45.665357
+				]
+			},
+			"properties": {
+				"marker-symbol": "beer",
+				"marker-color": "#607D8B",
+				"marker-size": "medium",
+				"name": "Thunder Island Brewing Co",
+				"address": "515 SW Portage Rd, Cascade Locks, OR 97014",
+				"url": "http://thunderislandbrewing.com"
+			}
+		}
+	]
+}

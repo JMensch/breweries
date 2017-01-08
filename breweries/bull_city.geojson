@@ -1,0 +1,23 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.9019651,
+					35.9954939
+				]
+			},
+			"properties": {
+				"marker-symbol": "beer",
+				"marker-color": "#607D8B",
+				"marker-size": "medium",
+				"name": "Bull City Burger and Brewery",
+				"address": "107 E Parrish St, Durham, NC 27701",
+				"url": "http://bullcityburgerandbrewery.com"
+			}
+		}
+	]
+}

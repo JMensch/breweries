@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#0047AB",
-        "marker-size": "large",
+        "marker-size": "medium",
         "name": "Yuengling Brewing Co.",
         "address": "501 Mahantongo St, Pottsville, PA 17901",
         "url": "http://yuengling.com"

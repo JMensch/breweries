@@ -1,0 +1,23 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.6605002,
+					45.523546
+				]
+			},
+			"properties": {
+				"marker-symbol": "beer",
+				"marker-color": "#607D8B",
+				"marker-size": "medium",
+				"name": "Burnside Brewing Co",
+				"address": "701 E Burnside St, Portland, OR 97214",
+				"url": "http://burnsidebrewco.com"
+			}
+		}
+	]
+}

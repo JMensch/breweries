@@ -1,0 +1,23 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.597408,
+					45.5195724
+				]
+			},
+			"properties": {
+				"marker-symbol": "beer",
+				"marker-color": "#607D8B",
+				"marker-size": "medium",
+				"name": "Solera Brewery",
+				"address": "4945 Baseline Rd, Mt Hood, OR 97041",
+				"url": "http://solerabrewery.com"
+			}
+		}
+	]
+}

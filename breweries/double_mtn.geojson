@@ -1,0 +1,23 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.3463471,
+					45.5941788
+				]
+			},
+			"properties": {
+				"marker-symbol": "beer",
+				"marker-color": "#607D8B",
+				"marker-size": "medium",
+				"name": "Double Mountain Brewery",
+				"address": "8 4th St, Hood River, OR 97031",
+				"url": "http://doublemountainbrewery.com"
+			}
+		}
+	]
+}
