@@ -12,8 +12,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
         "name": "Bellwoods Brewery",
         "address": "124 Ossington Ave, Toronto, ON M6J 2Z5, Canada",
         "url": "http://bellwoodsbrewery.com"
@@ -30,8 +30,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
         "name": "Big Horse Brew Pub",
         "address": "115 State St, Hood River, OR 97031",
         "url": "http://bighorsebrewpub.com"
@@ -48,8 +48,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
         "name": "Bull City Burger and Brewery",
         "address": "107 E Parrish St, Durham, NC 27701",
         "url": "http://bullcityburgerandbrewery.com"
@@ -66,8 +66,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
         "name": "Burnside Brewing Co",
         "address": "701 E Burnside St, Portland, OR 97214",
         "url": "http://burnsidebrewco.com"
@@ -84,7 +84,7 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
+        "marker-color": "#0047AB",
         "marker-size": "small",
         "name": "Deschutes Brewery",
         "address": "210 NW 11th Ave, Portland, OR 97209",
@@ -103,7 +103,7 @@
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#0047AB",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "Dock Street Brewing",
         "address": "701 S 50th St, Philadelphia, PA 19143",
         "url": "http://dockstreetbeer.com"
@@ -120,8 +120,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
         "name": "Double Mountain Brewery",
         "address": "8 4th St, Hood River, OR 97031",
         "url": "http://doublemountainbrewery.com"
@@ -138,8 +138,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
         "name": "Haw River Farmhouse Ales",
         "address": "1713 Saxapahaw-Bethlehem Church Rd, Saxapahaw, NC 27340",
         "url": "http://hawriverales.com"
@@ -156,8 +156,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
         "name": "Pelican Brewing",
         "address": "1371 S Hemlock St, Cannon Beach, OR 97110",
         "url": "http://pelicanbrewing.com"
@@ -174,8 +174,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
         "name": "pFriem Family Brewers",
         "address": "707 Portway Ave #101, Hood River, OR 97031",
         "url": "http://pfriembeer.com"
@@ -193,7 +193,7 @@
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#0047AB",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "Philadelphia Brewing Co",
         "address": "2439 Amber St, Philadelphia, PA 19125",
         "url": "http://philadelphiabrewing.com"
@@ -210,8 +210,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
         "name": "Ponysaurus Brewing Co",
         "address": "219 Hood St, Durham, NC 27701",
         "url": "http://ponysaurusbrewing.com"
@@ -229,7 +229,7 @@
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#0047AB",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "Prism Brewing Company",
         "address": "810 Dickerson Rd, North Wales, PA 19454",
         "url": "http://prismbeer.com"
@@ -246,8 +246,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
         "name": "Solera Brewery",
         "address": "4945 Baseline Rd, Mt Hood, OR 97041",
         "url": "http://solerabrewery.com"
@@ -264,8 +264,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
         "name": "Steam Whistle Brewing",
         "address": "Roundhouse Park, 255 Bremner Blvd, Toronto, ON M5V 3M9, Canada",
         "url": "http://steamwhistle.ca"
@@ -282,8 +282,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
         "name": "Steel String Brewery",
         "address": "106 S Greensboro St, Carrboro, NC 27510",
         "url": "http://steelstringbrewery.com"
@@ -300,8 +300,8 @@
       },
       "properties": {
         "marker-symbol": "beer",
-        "marker-color": "#607D8B",
-        "marker-size": "medium",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
         "name": "Thunder Island Brewing Co",
         "address": "515 SW Portage Rd, Cascade Locks, OR 97014",
         "url": "http://thunderislandbrewing.com"
@@ -319,7 +319,7 @@
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#0047AB",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "Tired Hands Brewing",
         "address": "16 Ardmore Ave, Ardmore, PA 19003",
         "url": "http://tiredhands.com"
@@ -337,7 +337,7 @@
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#0047AB",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "Weyerbacher Brewing Co.",
         "address": "905 Line St, Easton, PA 18042",
         "url": "http://weyerbacher.com"
@@ -355,7 +355,7 @@
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#0047AB",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "Yards Brewing Company",
         "address": "901 N Delaware Ave, Philadelphia, PA 19123",
         "url": "http://yardsbrewing.com"
@@ -373,7 +373,7 @@
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#0047AB",
-        "marker-size": "medium",
+        "marker-size": "small",
         "name": "Yuengling Brewing Co.",
         "address": "501 Mahantongo St, Pottsville, PA 17901",
         "url": "http://yuengling.com"
