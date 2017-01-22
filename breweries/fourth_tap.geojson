@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+					-97.7140733,
+          30.3851409
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
+        "name": "4th Tap Brewing Cooperative",
+        "address": "10615 Metric Blvd, Austin, TX 78758",
+        "url": "http://4thtap.coop/"
+      }
+    }
+  ]
+}

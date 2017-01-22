@@ -78,8 +78,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1532363,
-          45.100609
+          -122.6842135,
+          45.524496
         ]
       },
       "properties": {
@@ -114,8 +114,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3463471,
-          45.5941788
+          -121.5168298,
+          45.7100138
         ]
       },
       "properties": {
@@ -125,6 +125,24 @@
         "name": "Double Mountain Brewery",
         "address": "8 4th St, Hood River, OR 97031",
         "url": "http://doublemountainbrewery.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7140733,
+          30.3851409
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
+        "name": "4th Tap Brewing Cooperative",
+        "address": "10615 Metric Blvd, Austin, TX 78758",
+        "url": "http://4thtap.coop/"
       }
     },
     {
@@ -294,8 +312,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.8997647,
-          45.665357
+          -121.89734,
+          45.6650383
         ]
       },
       "properties": {
@@ -348,6 +366,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -83.9883815,
+          35.9655811
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
+        "name": "Woodruff Brewing Co",
+        "address": "424 S Gay St, Knoxville, TN 37902",
+        "url": "http://woodruffbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -75.1380728,
           39.9623445
         ]
@@ -359,6 +395,24 @@
         "name": "Yards Brewing Company",
         "address": "901 N Delaware Ave, Philadelphia, PA 19123",
         "url": "http://yardsbrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7843076,
+          36.1512023
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
+        "name": "Yazoo Brewing Company",
+        "address": "910 Division St, Nashville, TN 37203",
+        "url": "http://yazoobrew.com/"
       }
     },
     {

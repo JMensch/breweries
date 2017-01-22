@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+					-83.9883815,
+					35.9655811
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
+        "name": "Woodruff Brewing Co",
+        "address": "424 S Gay St, Knoxville, TN 37902",
+        "url": "http://woodruffbrewing.com/"
+      }
+    }
+  ]
+}

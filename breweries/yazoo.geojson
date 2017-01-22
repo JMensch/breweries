@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+					-86.7843076,
+					36.1512023
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
+        "name": "Yazoo Brewing Company",
+        "address": "910 Division St, Nashville, TN 37203",
+        "url": "http://yazoobrew.com/"
+      }
+    }
+  ]
+}
