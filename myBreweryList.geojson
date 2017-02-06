@@ -168,6 +168,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -75.2249872,
+          39.9477547
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
+        "name": "Lazarus Brewing Co.",
+        "address": "1902 E 6th St, Austin, TX 78702",
+        "url": "http://lazarusbrewing.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.9621783,
           45.8881954
         ]
