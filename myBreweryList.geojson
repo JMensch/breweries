@@ -132,7 +132,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.7140733,
+          -122.304534,
+          37.8812716
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
+        "name": "Fieldwork Brewing Co.",
+        "address": "1160 6th St, Berkeley, CA 94710",
+        "url": "https://fieldworkbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.304534,
           30.3851409
         ]
       },
@@ -168,8 +186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.2249872,
-          39.9477547
+          -97.722008,
+          30.2617385
         ]
       },
       "properties": {

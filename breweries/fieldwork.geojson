@@ -6,17 +6,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.722008,
-          30.2617385
+          -122.304534,
+          37.8812716
         ]
       },
       "properties": {
         "marker-symbol": "beer",
         "marker-color": "#0047AB",
         "marker-size": "small",
-        "name": "Lazarus Brewing Co.",
-        "address": "1902 E 6th St, Austin, TX 78702",
-        "url": "http://lazarusbrewing.com"
+        "name": "Fieldwork Brewing Co.",
+        "address": "1160 6th St, Berkeley, CA 94710",
+        "url": "https://fieldworkbrewing.com/"
       }
     }
   ]
