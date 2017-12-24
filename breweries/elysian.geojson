@@ -1,0 +1,23 @@
+{
+	"type":"FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.3180826,
+					47.6139394
+				]
+			},
+			"properties": {
+				"marker-symbol": "beer",
+				"marker-color": "#0047AB",
+				"marker-size": "small",
+				"name": "Elysian Brewing",
+				"address": "1221 E Pike St, Seattle, WA 98122",
+				"url": "http://elysianbrewing.com"
+			}
+		}
+	]
+}
