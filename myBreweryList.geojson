@@ -186,6 +186,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.641455,
+          45.4850072
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
+        "name": "Gigantic Brewing Company",
+        "address": "5224 SE 26th Ave, Portland, OR 97202",
+        "url": "https://www.giganticbrewing.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.3212637,
           35.946722
         ]
@@ -485,6 +503,24 @@
         "name": "Yuengling Brewing Co.",
         "address": "501 Mahantongo St, Pottsville, PA 17901",
         "url": "http://yuengling.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7267507,
+          30.2620521
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
+        "name": "Zilker Brewing Company",
+        "address": "1701 E 6th St, Austin, TX 78702",
+        "url": "http://www.zilkerbeer.com/"
       }
     }
   ]

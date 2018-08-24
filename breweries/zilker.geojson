@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+					-97.7267507,
+          30.2620521
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
+        "name": "Zilker Brewing Company",
+        "address": "1701 E 6th St, Austin, TX 78702",
+        "url": "http://www.zilkerbeer.com/"
+      }
+    }
+  ]
+}

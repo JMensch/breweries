@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+					-122.641455,
+          45.4850072
+        ]
+      },
+      "properties": {
+        "marker-symbol": "beer",
+        "marker-color": "#0047AB",
+        "marker-size": "small",
+        "name": "Gigantic Brewing Company",
+        "address": "5224 SE 26th Ave, Portland, OR 97202",
+        "url": "https://www.giganticbrewing.com/"
+      }
+    }
+  ]
+}
